@@ -1,0 +1,13 @@
+{
+    "name": "omnifund/woocommerce-gateway-omnifund",
+    "description": "WooCommerce Payment Gateway for OmniFund",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "OmniFund",
+            "email": "support@omnifund.com"
+        }
+    ],
+    "require": {
+    }
+}
